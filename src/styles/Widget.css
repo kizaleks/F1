@@ -1,0 +1,16 @@
+div.widget {
+    margin: 5px 5px;
+    background-color: rgba(12, 8, 233, 0.2);
+    border-radius: 9px;
+    padding: 5px;
+    min-width: 120px;
+}
+div.date {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: rgba(39, 7, 214, 0.5);
+}
+div.temp {
+    font-size: 2em;
+    color: rgba(216, 13, 13, 0.9);
+}
